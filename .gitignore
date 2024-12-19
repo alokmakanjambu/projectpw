@@ -1,0 +1,32 @@
+# Dependencies (File yang diinstall)
+/vendor/
+node_modules/
+
+# Environment & Config
+.env
+.env.backup
+config.php
+
+# IDE Files (Setting editor)
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# System Files (File sistem operasi)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log Files
+*.log
+error_log
+access_log
+
+# MongoDB Backup (optional)
+/database_backup/*.json
+
+# Cache & Temporary
+/temp/
+/tmp/
+/cache/
