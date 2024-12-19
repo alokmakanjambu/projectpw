@@ -1,4 +1,4 @@
-# Project Parkir
+# Project Parkir - ParkEase
 
 Sistem manajemen parkir menggunakan PHP dan MongoDB.
 
